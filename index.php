@@ -26,7 +26,7 @@ $population = '13613660';
                 <li><?php echo $city; ?></li>
                 <li>Country: <?php echo $country; ?></li>
                 <li>Established: <?php echo $established; ?></li>
-
+                <li>population: <?php echo $population ?></li>
             </ul>
         </div>
         <div class="details">
