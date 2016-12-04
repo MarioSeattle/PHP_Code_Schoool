@@ -1,9 +1,6 @@
 <?php
-/**
- *Mario
- * Date: 12/4/2016
- * Time: 1:52 PM
- */
-$name = 'Alia';
-$string_one = "Hello Sname";
+$name = 'mario';
+$string_one = "Learning how to display "hello $name!" to the screen.";
 echo $string_one;
+
+?>
