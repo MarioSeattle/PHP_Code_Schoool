@@ -26,6 +26,8 @@ $b = '10';
 //var_dump($string_one == 'Learning to display "Hello Mario!" to the screen.');
 if ($string_one == 'Learning to display "Hello Mario!" to the screen'){
     echo 'the values match';
+}elseif ($string_one == "") {
+    echo '$string_one is empty';
 } else {
     echo 'the values DO NOT Match';
 }
