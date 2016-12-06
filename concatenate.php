@@ -8,12 +8,14 @@ $string_one .= '!" to the screen.';
 $string_one = $string_one . "\n";
 
 $string_one = 'I am' . $string_one;
-echo $string_one;
+//echo $string_one;
 
 $isReady = true;
-var_dump($isReady);
+//var_dump($isReady);
 $isReady = false;
-var_dump($isReady);
+//var_dump($isReady);
+//One plus the string 2 ""
+var_dump(1 + "2");
 
 
 ?>
