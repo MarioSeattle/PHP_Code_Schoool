@@ -24,6 +24,7 @@ $b = '10';
 //var_dump($a === $b);
 
 //var_dump($string_one == 'Learning to display "Hello Mario!" to the screen.');
+$string_one = "";
 if ($string_one == 'Learning to display "Hello Mario!" to the screen.'){
     echo 'the values match';
 }elseif ($string_one == "") {
