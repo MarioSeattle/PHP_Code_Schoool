@@ -23,5 +23,5 @@ $b = '10';
 //var_dump($a == $b);
 //var_dump($a === $b);
 
-var_dump($string_one == 'Learning to display "Hello Alena!" to the screen.');
+var_dump($string_one == 'Learning to display "Hello Mario!" to the screen.');
 ?>
