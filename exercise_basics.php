@@ -7,6 +7,6 @@ $exercise4 = 'Covert Miles to Kilometers';
 $exercise5 = 'Convert Kilometers to Miles';
 $exercise6 = 'Month Long string of the day';
 //Create a variable containing the day of the week
-$day = day('N');
-
+$day = date('N');
+var_dump($day);
 ?>
