@@ -8,6 +8,7 @@ $exercise5 = 'Convert Kilometers to Miles';
 $exercise6 = 'Month Long string of the day';
 //Create a variable containing the day of the week
 $day = date('N');
+$day = 6;
 
 //use statement to check for day of the week
 if ($day == 1){
